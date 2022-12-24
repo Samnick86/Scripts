@@ -1,3 +1,4 @@
+# Rename all files in specific folder to numbered +1 name. Example 1.psd, 2.psd, 3.psd, etc
 import os
 
 # Set the path to the folder containing the files to be renamed
