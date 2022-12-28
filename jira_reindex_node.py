@@ -1,6 +1,7 @@
 ################################
 #pip install requests
 #pip install tkinter
+#https://realpython.com/python-gui-tkinter/
 ################################
 
 import requests
