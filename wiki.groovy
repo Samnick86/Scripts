@@ -19,3 +19,5 @@
 ## Použití makra
 
 {Zobrazit podřazené stránky}
+
+---
